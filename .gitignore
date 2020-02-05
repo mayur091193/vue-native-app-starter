@@ -1,5 +1,7 @@
 node_modules/**/*
 .expo/*
+.expo-shared/*
+metro-cache/
 npm-debug.*
 *.jks
 *.p8
