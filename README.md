@@ -1,6 +1,12 @@
 # vue-native-app-starter
 
-Screens
+Built using:
+
+* Vue Native
+* Native Base
+* Expo CLI
+
+Screens:
 
 1. Login screen
 2. Item listing screen
