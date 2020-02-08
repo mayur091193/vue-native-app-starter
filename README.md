@@ -2,9 +2,10 @@
 
 Login screen
 
+<kbd>
 <img src="assets/Screenshot_20200206-111801.jpg" border="1" width="260px" height="450px" alt="Login screen"
 	title="Login screen"  />
-
+</kbd>
 Item listing screen
 
 <img src="assets/Screenshot_20200206-111808.jpg" border="1" width="260px" height="450px" alt="Item listing screen"
