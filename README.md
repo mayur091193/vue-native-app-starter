@@ -1,10 +1,14 @@
 # vue-native-app-starter
 
 <p float="left">
+	<kbd>
 <img src="assets/Screenshot_20200206-111801.jpg" border="1" width="260px" height="450px" alt="Login screen"
 	title="Login screen"  />
+		</kbd>
+	<kbd>
 <img src="assets/Screenshot_20200206-111808.jpg" border="1" width="260px" height="450px" alt="Item listing screen"
 	title="Screenshot_20200206-111808.jpg"  />	
+	</kbd>
 </p>
 
 Login screen
