@@ -7,7 +7,7 @@ Login screen
 
 Item listing screen
 
-<img src="assets/Screenshot_20200206-111818.jpg" width="260px" height="450px" alt="Kitten"
+<img src="assets/Screenshot_20200206-111808.jpg" width="260px" height="450px" alt="Kitten"
 	title="Screenshot_20200206-111808.jpg"  />
 	
 Item details screen
