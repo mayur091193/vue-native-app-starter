@@ -1,5 +1,5 @@
 # vue-native-app-starter
-
+<p float="left">
 Login screen
 
 <table><tr><td>
@@ -41,3 +41,4 @@ Map view screen
 <img src="assets/Screenshot_20200206-111818.jpg" border="1" width="260px" height="450px" alt="Map view screen"
 	title="Map view screen"  />
 </td></tr></table>
+</p>
