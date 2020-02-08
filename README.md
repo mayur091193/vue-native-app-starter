@@ -2,6 +2,10 @@
 
 1. Login screen
 2. Item listing screen
+3. Item details screen
+4. Post Item screen
+5. My profile screen
+6. Map view screen
 
 <p float="left">
 	<kbd>
