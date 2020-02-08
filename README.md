@@ -2,6 +2,7 @@
 
 <p float="left">
 	<kbd>
+		Login screen
 <img src="assets/Screenshot_20200206-111801.jpg" border="1" width="260px" height="450px" alt="Login screen"
 	title="Login screen"  />
 		</kbd>
