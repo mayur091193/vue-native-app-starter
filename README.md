@@ -14,10 +14,8 @@
 	title="Item details screen"  />
 	</kbd>
 	<kbd>
-
 <img src="assets/Screenshot_20200206-111826.jpg" border="1" width="260px" height="450px" alt="Post Item screen"
 	title="Post Item screen"  />
-
 	</kbd>
 </p>
 
