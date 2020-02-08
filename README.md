@@ -2,9 +2,9 @@
 
 Built using:
 
-* Vue Native
-* Native Base
-* Expo CLI
+* [Vue Native](https://vue-native.io/)
+* [Native Base](https://nativebase.io/)
+* [Expo](https://expo.io/)
 
 Screens:
 
