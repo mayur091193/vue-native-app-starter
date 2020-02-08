@@ -11,15 +11,15 @@ Screens
 
 <p float="left">
 	<kbd>
-<img src="assets/Screenshot_20200206-111801.jpg" border="1" width="260px" height="450px" alt="Login screen"
+<img src="assets/Screenshot_20200206-111801.jpg" border="1"  alt="Login screen"
 	title="Login screen"  />
 		</kbd>
 	<kbd>
-<img src="assets/Screenshot_20200206-111808.jpg" border="1" width="260px" height="450px" alt="Item listing screen"
+<img src="assets/Screenshot_20200206-111808.jpg" border="1"  alt="Item listing screen"
 	title="Item listing screen"  />	
 	</kbd>
 	<kbd>
-<img src="assets/Screenshot_20200208-202814.jpg" border="1" width="260px" height="450px" alt="Item details screen"
+<img src="assets/Screenshot_20200208-202814.jpg" border="1"  alt="Item details screen"
 	title="Item details screen"  />
 	</kbd>
 </p>
