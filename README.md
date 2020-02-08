@@ -10,7 +10,7 @@
 	title="Screenshot_20200206-111808.jpg"  />	
 	</kbd>
 	<kbd>
-		<img src="assets/Screenshot_20200208-202814.jpg" border="1" width="260px" height="450px" alt="Item details screen"
+<img src="assets/Screenshot_20200208-202814.jpg" border="1" width="260px" height="450px" alt="Item details screen"
 	title="Item details screen"  />
 	</kbd>
 </p>
