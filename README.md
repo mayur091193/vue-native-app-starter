@@ -6,11 +6,12 @@ Login screen
 <img src="assets/Screenshot_20200206-111801.jpg" border="1" width="260px" height="450px" alt="Login screen"
 	title="Login screen"  />
 </kbd>
-Item listing screen
 
+Item listing screen
+<kbd>
 <img src="assets/Screenshot_20200206-111808.jpg" border="1" width="260px" height="450px" alt="Item listing screen"
 	title="Screenshot_20200206-111808.jpg"  />
-	
+</kbd>	
 Item details screen
 
 <img src="assets/Screenshot_20200208-202814.jpg" border="1" width="260px" height="450px" alt="Item details screen"
