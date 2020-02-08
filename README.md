@@ -1,7 +1,7 @@
 # vue-native-app-starter
 
-[1] Login screen
-[2] Item listing screen
+1. Login screen
+2. Item listing screen
 
 <p float="left">
 	<kbd>
