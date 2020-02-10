@@ -29,7 +29,7 @@ While running the project, if may face any package dependencies issue, you can r
 
 ## Demo
 
-I've published the app to the expo at [The Hacker](https://expo.io/@mayur.911/neverstop). To run, you can download [Expo client on Android or IOS](https://expo.io/tools#client) and scan the QR code on the link to run the app.
+I've published the app to the expo at [The Hacker](https://expo.io/@mayur.911/neverstop). To run, you can download [Expo client on Android or IOS](https://expo.io/tools#client) and scan the QR code on the link.
     
 ## Screens
 
