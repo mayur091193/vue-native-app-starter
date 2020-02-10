@@ -23,6 +23,8 @@ npm install
 * **Run**
     * Run `npm start` in your terminal. This command will run your app in development mode with an interactive prompt.
     
+While running the project, if may face any package dependencies issue, you can remove that specific package using `npm uninstall` and install the same using `expo install package-name`.
+    
 ## Screens
 
 1. Login screen
