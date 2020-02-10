@@ -70,7 +70,7 @@ npm install
 * Validations
 * Charts
 
-Above list will never end :)
+Above list will never end. :)
 
 ## License
 
