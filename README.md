@@ -1,12 +1,12 @@
 # vue-native-app-starter
 
-Built using:
+## Built using
 
 * [Vue Native](https://vue-native.io/)
 * [Native Base](https://nativebase.io/)
 * [Expo](https://expo.io/)
 
-Screens:
+## Screens
 
 1. Login screen
 2. Item listing screen
@@ -14,6 +14,8 @@ Screens:
 4. Post Item screen (with image upload)
 5. My profile screen
 6. Map view screen 
+
+## Screens UI
 
 <p float="left">
 	<kbd>
