@@ -6,6 +6,16 @@
 * [Native Base](https://nativebase.io/)
 * [Expo](https://expo.io/)
 
+## Installation
+
+* **Clone and install packages**
+
+```
+git clone https://github.com/mayur091193/vue-native-app-starter.git
+cd vue-native-app-starter
+npm install
+```
+
 ## Screens
 
 1. Login screen
