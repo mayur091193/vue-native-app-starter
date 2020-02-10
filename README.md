@@ -44,30 +44,30 @@ I've published the app to the expo at [The Hacker](https://expo.io/@mayur.911/ne
 
 <p float="left">
 	<kbd>
-<img src="assets/Screenshot_20200206-111801.jpg" border="1" width="260px" height="470px" alt="Login screen"
+<img src="assets/Screenshot_20200206-111801.jpg" border="1" width="260px" height="480px" alt="Login screen"
 	title="Login screen"  />
 		</kbd>
 	<kbd>
-<img src="assets/Screenshot_20200206-111808.jpg" border="1" width="260px" height="470px" alt="Item listing screen"
+<img src="assets/Screenshot_20200206-111808.jpg" border="1" width="260px" height="480px" alt="Item listing screen"
 	title="Item listing screen"  />	
 	</kbd>
 	<kbd>
-<img src="assets/Screenshot_20200208-202814.jpg" border="1" width="260px" height="470px" alt="Item details screen"
+<img src="assets/Screenshot_20200208-202814.jpg" border="1" width="260px" height="480px" alt="Item details screen"
 	title="Item details screen"  />
 	</kbd>
 </p>
 	
 <p float="left">
 	<kbd>
-<img src="assets/Screenshot_20200206-111826.jpg" border="1" width="260px" height="470px" alt="Post Item screen"
+<img src="assets/Screenshot_20200206-111826.jpg" border="1" width="260px" height="480px" alt="Post Item screen"
 	title="Post Item screen"  />
 	</kbd>
 	<kbd>
-<img src="assets/Screenshot_20200206-111833.jpg" border="1" width="260px" height="470px" alt="My profile screen"
+<img src="assets/Screenshot_20200206-111833.jpg" border="1" width="260px" height="480px" alt="My profile screen"
 	title="My profile screen"  />
 	</kbd>
 	<kbd>
-<img src="assets/Screenshot_20200206-111818.jpg" border="1" width="260px" height="470px" alt="Map view screen"
+<img src="assets/Screenshot_20200206-111818.jpg" border="1" width="260px" height="480px" alt="Map view screen"
 	title="Map view screen"  />
 	</kbd>
 </p>
