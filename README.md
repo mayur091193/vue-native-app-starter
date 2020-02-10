@@ -25,6 +25,12 @@ npm install
     
 While running the project, if may face any package dependencies issue, you can remove that specific package using `npm uninstall` and install the same using `expo install package-name`.
     
+***Feel free to reach out to me at "mayur091193@gmail.com" in case of any questions/queries.***   
+
+## Demo
+
+I've published the app to the expo at (The Hacker)[https://expo.io/@mayur.911/neverstop]. To run, you can download (Expo client on Android or IOS)[https://expo.io/tools#client] and scan the QR code on the link to run.
+    
 ## Screens
 
 1. Login screen
