@@ -59,3 +59,10 @@ npm install
 	title="Map view screen"  />
 	</kbd>
 </p>
+
+## Roadmap
+
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
