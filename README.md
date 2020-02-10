@@ -5,6 +5,10 @@
 * [Vue Native](https://vue-native.io/)
 * [Native Base](https://nativebase.io/)
 * [Expo](https://expo.io/)
+* [Vue Native Router](https://vue-native.io/docs/vue-native-router.html)
+* [react-native-maps](https://github.com/react-native-community/react-native-maps)
+* [expo-image-picker](https://docs.expo.io/versions/latest/sdk/imagepicker/)
+* [expo-permissions](https://docs.expo.io/versions/latest/sdk/permissions/)
 
 ## Installation
 
@@ -62,6 +66,11 @@ npm install
 
 ## Roadmap
 
+* Sidebar
+* Validations
+* Charts
+
+Above list will never end :)
 
 ## License
 
