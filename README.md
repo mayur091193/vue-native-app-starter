@@ -71,6 +71,7 @@ While running the project, if may face any package dependencies issue, you can r
 * Sidebar
 * Validations
 * Charts
+* Backend(Most likely `Python`)
 
 Above list will never end. :)
 
