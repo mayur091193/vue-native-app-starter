@@ -16,6 +16,9 @@ cd vue-native-app-starter
 npm install
 ```
 
+* **Run**
+    * Run `npm start` in your terminal. This command will run your app in development mode with an interactive prompt.
+    
 ## Screens
 
 1. Login screen
