@@ -1,5 +1,7 @@
 # vue-native-app-starter
 
+Starter app created using vue-native.
+
 ## Support
 
 If this hepls you in any way, you can contribute to this project by supporting me:
