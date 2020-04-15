@@ -1,5 +1,17 @@
 # vue-native-app-starter
 
+## Support
+
+If this hepls you in any way, you can contribute to this project by supporting me:
+
+### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayur091193)
+
+Please check out my sponsor page.
+
+(Every small appreciation can make my day!)
+
+Thank you very much!!
+
 ## Built using
 
 * [Vue Native](https://vue-native.io/)
